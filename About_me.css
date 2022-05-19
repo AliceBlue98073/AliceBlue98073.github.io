@@ -1,0 +1,63 @@
+body {
+	font-family:Noto Serif TC Light,思源黑体 CN;
+}
+main{
+    padding: 25px 0;
+    text-align: justify;
+    margin:0 auto;
+    letter-spacing: 2px;
+	font-family:Noto Serif TC Light,思源黑体 CN;
+    
+}
+repeat{
+    width: 170px;
+	height: 36px;
+	text-indent: 101%;
+	overflow: hidden;
+	white-space: nowrap;
+}
+h1 {
+	color: black;
+    text-align: center;
+    font-size: 55px;
+}
+
+h2 {
+	color: lightseagreen;
+	text-align: center;
+    font-size: 40px;
+}
+P {
+    text-indent:2em;
+    line-height:0.7cm;
+    font-size: 15px;
+}
+
+nav a {
+    font-size: 17px;
+    color:inherit;
+    text-align: center;
+}
+
+nav>ul{
+    text-align: center;
+}
+fotter{
+    color: lightblue;
+	text-align: center;
+}
+fotter a{
+    font-size:5px;
+    color: lightblue;
+	text-align: center;
+}
+fotter div{
+    padding:8px;
+    font-size:10px;
+}
+a:hover{
+    color:darkturquoise;
+}
+.container.custom-container-width {
+    max-width: 1010px;   
+}

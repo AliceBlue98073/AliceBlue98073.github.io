@@ -1,0 +1,36 @@
+body {
+	font-family:Noto Serif TC Light,思源黑体 CN;
+}
+main{
+    padding: 25px 0;
+    text-align: justify;
+    margin:auto;
+    letter-spacing: 2px;
+	font-family:Noto Serif TC Light,思源黑体 CN;
+    
+}
+nav{
+    position: relative;
+}
+nav a {
+    font-size: 17px;
+    color:inherit;
+    text-align: center;
+}
+
+fotter{
+    color: lightblue;
+	text-align: center;
+}
+fotter a{
+    font-size:5px;
+    color: lightblue;
+	text-align: center;
+}
+fotter div{
+    padding:8px;
+    font-size:10px;
+}
+a:hover{
+    color:darkturquoise;
+}
