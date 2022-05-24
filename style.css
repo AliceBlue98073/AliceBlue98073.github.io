@@ -9,13 +9,11 @@ main{
 	font-family:Noto Serif TC Light,思源黑体 CN;
     
 }
-nav{
-    position: relative;
-}
+
 nav a {
     font-size: 17px;
     color:inherit;
-    text-align: center;
+    
 }
 
 fotter{
