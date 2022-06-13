@@ -2,12 +2,11 @@ body {
 	font-family:Noto Serif TC Light,思源黑体 CN;
 }
 main{
-    padding: 25px 0;
+    padding: 25px 25px;
     text-align: justify;
-    margin:0 auto;
+    margin:auto 20px;
     letter-spacing: 2px;
 	font-family:Noto Serif TC Light,思源黑体 CN;
-    
 }
 repeat{
     width: 170px;
@@ -17,34 +16,21 @@ repeat{
 	white-space: nowrap;
 }
 h1 {
-	color: black;
+    padding: 25px 0 0 0;
+	color: lightseagreen;
     text-align: center;
-    font-size: 55px;
+    font-size: 30px;
 }
 
 h2 {
 	color: lightseagreen;
 	text-align: center;
-    font-size: 40px;
-}
-h3 {
-	color: black;
-	text-align: center;
-    font-size: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    font-size: 30px;
 }
 P {
     text-indent:2em;
     line-height:0.7cm;
     font-size: 15px;
-}
-figcaption{
-    color: gray;
-    text-align: center;
-    font-size:15px;
-    margin-top: 5px;
-    margin-bottom: 10px;
 }
 
 nav a {
@@ -71,11 +57,4 @@ a:hover{
 .container.custom-container-width {
     max-width: 1010px;   
 }
-h4{
-    font-family:Noto Serif TC Light,思源黑体 CN;
-    color: gray;
-	text-align: center;
-    font-size: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
+
