@@ -1,16 +1,16 @@
 body {
-	font-family:Noto Serif TC Light,思源黑体 CN;
+	font-family: 'Noto Serif TC', serif;
 }
 main{
     padding: 25px 0;
     text-align: justify;
     margin:auto;
     letter-spacing: 2px;
-	font-family:Noto Serif TC Light,思源黑体 CN;
+	font-family: 'Noto Serif TC', serif;
     
 }
 h5{	
-    font-family:Noto Serif TC Light,思源黑体 CN;
+    font-family: 'Noto Serif TC', serif;
 }
 nav a {
     font-size: 17px;
