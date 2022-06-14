@@ -15,7 +15,7 @@ repeat{
 	white-space: nowrap;
 }
 h1 {
-    padding: 15px 0 0 0;
+    padding: 0 auto;
 	color: lightseagreen;
     text-align: center;
     font-size: 30px;
