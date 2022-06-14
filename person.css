@@ -15,7 +15,7 @@ repeat{
 	white-space: nowrap;
 }
 h1 {
-    padding: 25px 0 0 0;
+    padding: 15px 0 0 0;
 	color: lightseagreen;
     text-align: center;
     font-size: 30px;
@@ -56,4 +56,5 @@ a:hover{
 .container.custom-container-width {
     max-width: 1010px;   
 }
+
 
